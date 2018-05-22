@@ -1,9 +1,10 @@
 # OculusGo_Setup
 Unity build on OculusGo and uninstall.
 
-Steup Android On Uniyt
+Steup Android On Unity
 1. Install Android SDK, Need API level 19
 2. Android Debug Bridge (ADB)
+3. XR/VR Setting open Virtual Reality Supported, and Add Oculus to the first in SDK.
   
 Detect Devices  
 <img src="https://github.com/shinn716/OculusGo_Setup/blob/master/adb01.png" /></a>  
