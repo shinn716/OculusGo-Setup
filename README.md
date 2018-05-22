@@ -6,11 +6,13 @@ Steup Android On Uniyt
 2. Android Debug Bridge (ADB)
   
 Detect Devices  
-<img src="https://github.com/shinn716/OculusGo_Setup/blob/master/adb01.png" /></a>
+<img src="https://github.com/shinn716/OculusGo_Setup/blob/master/adb01.png" /></a>  
+  
 Install APK(File name)  
-<img src="https://github.com/shinn716/OculusGo_Setup/blob/master/adb02.png" /></a>
+<img src="https://github.com/shinn716/OculusGo_Setup/blob/master/adb02.png" /></a>  
+  
 Uninstall APK(Package Name)  
-<img src="https://github.com/shinn716/OculusGo_Setup/blob/master/adb03.png" /></a>
+<img src="https://github.com/shinn716/OculusGo_Setup/blob/master/adb03.png" /></a>  
   
 Ref.
 1. https://developer.oculus.com/documentation/mobilesdk/latest/concepts/mobile-device-setup-go/
