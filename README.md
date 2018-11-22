@@ -4,7 +4,9 @@ Unity build on OculusGo and uninstall.
 Steup Android On Unity
 1. Install Android SDK, Need API level 19
 2. Android Debug Bridge (ADB) (Location android_sdk/platform-tools/)  
-  15 seconds ADB Installer v1.4.3 -> https://forum.xda-developers.com/showthread.php?t=2588979
+  15 seconds ADB Installer v1.4.3 -> 
+       https://forum.xda-developers.com/showthread.php?t=2588979  
+    or https://github.com/shinn716/OculusGo-Setup/blob/master/15_Second_ADB_Installer_v1.4.3.zip
 3. XR/VR Setting open Virtual Reality Supported, and Add Oculus to the first in SDK.
 4. Install Oculus App on your mobile phone(Download from Google Play), and turn on "Develop Mode". 
   
