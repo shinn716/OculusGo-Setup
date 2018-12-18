@@ -7,7 +7,8 @@ Steup Android On Unity
 3. Android Debug Bridge (ADB) (Location android_sdk/platform-tools/)  
   15 seconds ADB Installer v1.4.3 ->   
     https://forum.xda-developers.com/showthread.php?t=2588979 or  
-    https://github.com/shinn716/OculusGo-Setup/blob/master/15_Second_ADB_Installer_v1.4.3.zip
+    https://github.com/shinn716/OculusGo-Setup/blob/master/15_Second_ADB_Installer_v1.4.3.zip  
+    https://developer.oculus.com/downloads/package/oculus-go-adb-drivers/  
 4. XR/VR Setting open Virtual Reality Supported, and Add Oculus to the first in SDK.
 5. Install Oculus App on your mobile phone(Download from Google Play), and turn on "Develop Mode". 
   
