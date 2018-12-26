@@ -11,14 +11,15 @@ Steup Android On Unity
     https://developer.oculus.com/downloads/package/oculus-go-adb-drivers/  
 4. XR/VR Setting open Virtual Reality Supported, and Add Oculus to the first in SDK.
 5. Install Oculus App on your mobile phone(Download from Google Play), and turn on "Develop Mode". 
-  
-Detect Devices  
+    
+### Detect Devices  
 <img src="https://github.com/shinn716/OculusGo_Setup/blob/master/adb01.png" /></a>  
   
-Install APK(File name)  
-<img src="https://github.com/shinn716/OculusGo_Setup/blob/master/adb02.png" /></a>  
+### Install APK(File name)  
+<img src="https://github.com/shinn716/OculusGo_Setup/blob/master/adb02.png" /></a>   
+adb -s "<deviceIDfromlist>" install "<path-to-apk>" & adb -s "<deviceIDfromlist>" install "<path-to-apk>" ...   
   
-Uninstall APK(Package Name)  
+### Uninstall APK(Package Name)  
 <img src="https://github.com/shinn716/OculusGo_Setup/blob/master/adb03.png" /></a>  
   
 Ref.
