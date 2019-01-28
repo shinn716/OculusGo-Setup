@@ -1,8 +1,7 @@
 # OculusGo_Setup
-Unity build on OculusGo and uninstall.
+Unity build on Oculus Go and uninstall.
 
-Steup Android On Unity
----
+### Steup Android On Unity
 1. Install Android SDK, Need API level 19
 2. Download Oculus App, and app turn on Develope Mode.
 3. Android Debug Bridge (ADB) (Location android_sdk/platform-tools/)  
