@@ -24,7 +24,7 @@ Unity build on Oculus Go and uninstall.
   
 ### Install APK(File name)  
 <img src="https://github.com/shinn716/OculusGo_Setup/blob/master/adb02.png" /></a>   
-adb -s "<deviceIDfromlist>" install "<path-to-apk>" & adb -s "<deviceIDfromlist>" install "<path-to-apk>" ...   
+Multi devices install at same time: adb -s "<deviceIDfromlist>" install "<path-to-apk>" & adb -s "<deviceIDfromlist>" install "<path-to-apk>" ...   
   
 ### Uninstall APK(Package Name)  
 <img src="https://github.com/shinn716/OculusGo_Setup/blob/master/adb03.png" /></a>  
