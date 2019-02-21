@@ -6,9 +6,15 @@ Unity build on Oculus Go and uninstall.
 2. Download Oculus App, and app turn on Develope Mode.
 3. Android Debug Bridge (ADB) (Location android_sdk/platform-tools/)  
   15 seconds ADB Installer v1.4.3 ->   
+  
     https://forum.xda-developers.com/showthread.php?t=2588979 or  
     https://github.com/shinn716/OculusGo-Setup/blob/master/15_Second_ADB_Installer_v1.4.3.zip or  
     https://developer.oculus.com/downloads/package/oculus-go-adb-drivers/  
+      
+    I am used to copying adb.exe, AdnWimApi.dll, AdbWinUsbApi.dll, fastboot.exe, these four files to C:\adb\.  
+    File location ''C:\ ...\AppData\Local\Android\Sdk\platform-tools''.  
+    <img src="https://github.com/shinn716/OculusGo_Setup/blob/master/adb04.png" /></a>  
+    
     
 4. XR/VR Setting open Virtual Reality Supported, and Add Oculus to the first in SDK.  
 5. Install Oculus App on your mobile phone(Download from Google Play), and turn on "Develop Mode".  
