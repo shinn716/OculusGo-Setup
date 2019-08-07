@@ -41,3 +41,6 @@ http://j796160836.pixnet.net/blog/post/29108155-%5Bandroid%5D-debug%E4%B8%8D%E7%
  http://andy02172001.blogspot.com/2017/10/androidadb-error-more-than-one.html  
  - Install apk file if more then one devices.  
  https://stackoverflow.com/questions/7186215/is-it-possible-to-install-apk-file-if-more-then-one-emulators-devices-are-connec  
+ 
+ ADB Debug  
+ - adb logcat | findstr -i unity  
